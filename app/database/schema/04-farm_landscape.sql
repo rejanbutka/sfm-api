@@ -1,0 +1,5 @@
+CREATE TABLE farm_landscape(
+   id INT GENERATED ALWAYS AS IDENTITY,
+   name VARCHAR(255),
+   PRIMARY KEY (id)
+)

@@ -1,0 +1,16 @@
+INSERT INTO employee(first_name, last_name, company_nuis, role_id) VALUES
+    ('Name1', 'Surname1', 57812934, 1),
+    ('Name2', 'Surname2', 57812934, 2),
+    ('Name3', 'Surname3', 57812934, 3),
+    ('Name4', 'Surname4', 57812934, 4),
+    ('Name5', 'Surname5', 57812934, 5),
+    ('Name6', 'Surname6', 57812935, 1),
+    ('Name7', 'Surname7', 57812935, 2),
+    ('Name8', 'Surname8', 57812935, 3),
+    ('Name9', 'Surname9', 57812935, 4),
+    ('Name10', 'Surname10', 57812935, 5),
+    ('Name11', 'Surname11', 57812936, 1),
+    ('Name12', 'Surname12', 57812936, 2),
+    ('Name13', 'Surname13', 57812936, 3),
+    ('Name14', 'Surname14', 57812936, 4),
+    ('Name15', 'Surname15', 57812936, 5);
